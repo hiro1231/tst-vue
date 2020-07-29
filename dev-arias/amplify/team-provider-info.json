@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-arias-dev-80641-authRole",
+            "UnauthRoleArn": "arn:aws:iam::766153568694:role/amplify-arias-dev-80641-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::766153568694:role/amplify-arias-dev-80641-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-arias-dev-80641-deployment",
+            "UnauthRoleName": "amplify-arias-dev-80641-unauthRole",
+            "StackName": "amplify-arias-dev-80641",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:766153568694:stack/amplify-arias-dev-80641/2a9c8b40-d1f0-11ea-87de-0e08659c816c",
+            "AmplifyAppId": "d3m2me82k6zcci"
+        }
+    }
+}
